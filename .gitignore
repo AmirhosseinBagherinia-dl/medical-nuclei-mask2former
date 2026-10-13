@@ -1,0 +1,14 @@
+# Python caches
+__pycache__/
+.ipynb_checkpoints/
+
+# Model weights and massive files
+*.zip
+*.pt
+*.pth
+*.safetensors
+*.engine
+best_model/
+
+# System files
+.DS_Store
